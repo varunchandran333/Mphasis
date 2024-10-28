@@ -1,4 +1,4 @@
-# Application for programming Test for Virtusa
+# Application for programming Test
 This is a sample weather application which enables to understand how to integrate Kotlin, Coroutines, flow, Koin DI and write unitest for MVVM architecture.
 
 ## How It's Made:
